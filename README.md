@@ -58,9 +58,9 @@ Probreflix/
 - Matrícula(s): 202411461
 - Professor: Renan Costa.
 - Disciplina: Aplicações Frontend
-- Repositório GitHub: 
-- GitHub Pages: 
-- Vídeo (até 5 minutos): 
+- Repositório GitHub: https://github.com/paulovictor4306/Probreflix.git
+- GitHub Pages: https://paulovictor4306.github.io/Probreflix/
+- Vídeo: https://drive.google.com/file/d/13VBDwPhLFcMbfwrdE9xRYdw5c5Ffd2U5/view?usp=sharing
 
 
 
